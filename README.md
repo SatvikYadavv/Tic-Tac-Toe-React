@@ -20,7 +20,7 @@ A feature-rich, animated Tic-Tac-Toe game built using **React**, **Material-UI (
 
 ## 🚀 Live Demo
 
-Play the game online here: [Play Tic-Tac-Toe]
+Play the game online here: [Play Tic-Tac-Toe](https://tic-tac-toereactapp.netlify.app/)
 
 ---
 
